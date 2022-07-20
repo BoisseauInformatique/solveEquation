@@ -1,0 +1,24 @@
+div.frac {
+    display: flex;
+    flex-direction: column;
+    /* float: left; */
+    text-align: center;
+    width: 150px;
+}
+div.numer {
+    border-bottom: 1px solid black;
+}
+div.denom {
+    border-top: 1px solid black;
+}
+
+input.entree
+{
+    width: 40px;
+}
+
+section
+{
+    display: flex;
+    flex-direction: column;
+}
